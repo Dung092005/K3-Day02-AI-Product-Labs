@@ -1,3 +1,8 @@
+**Họ và tên:** Nguyễn Tiến Dũng  
+**Mã học viên:** 2A202601707
+
+---
+
 # Day 02 Lab — Tìm Đúng Bài Toán Cho AI
 
 > Từ vấn đề thật quanh mình → workflow rõ → Problem Statement đủ chặt → chọn Rule / Workflow / Agent → quyết định Go / Not Yet / No-Go.
